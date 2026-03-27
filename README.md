@@ -4,3 +4,4 @@
 - The structured method based on Purpose, Project, and Challenges is an approach to management and active learning (often associated with Project-Based Learning - PBL or Challenges - CBL) focused on giving practical meaning to learning or work, connecting intention to real action.
 - Extra practice - Episode #00: What will be covered in this mini-course?
 - Playlist -> https://youtu.be/cpNHnNPuiLQ?si=WczlkRR3BIjY8Rs2
+- I want to rate the teacher, access: https://forms.gle/xfMuCdKncQJmPppS9
