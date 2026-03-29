@@ -5,3 +5,4 @@
 - Extra practice - Episode #00: What will be covered in this mini-course?
 - Playlist -> https://youtu.be/cpNHnNPuiLQ?si=WczlkRR3BIjY8Rs2
 - I want to rate the teacher, access: https://forms.gle/xfMuCdKncQJmPppS9
+- 1. Test/Simulation AV1 https://notebooklm.google.com/notebook/65474263-c0de-434f-a419-43c551df3340?artifactId=a3664928-f84f-4b42-8636-9bcb53394965
