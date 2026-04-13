@@ -1,4 +1,4 @@
-# Exercícios Práticos Python (A Resolução Completa com Entrega Vale 0,5 na AV2)
+# Desafios Práticos Python (A Resolução Completa com Entrega Vale 0,5 na AV2)
 - Este repositório tem como objetivo reunir alguns exercícios para os interessados em estudar e reforçar seus conhecimentos na linguagem Python.
 - Todos os exercícios contam com um enunciado e com uma solução proposta, porém cada pessoa pode implementar a solução da maneira que achar mais interessante.
 - Os exercícios foram divididos em dois níveis: básico e avançado. Mesmo que o seu nível de conhecimento na linguagem seja bem raso, ainda assim você encontrará desafios que seja capaz de concluir.
