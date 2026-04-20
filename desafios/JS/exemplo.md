@@ -1,0 +1,1 @@
+- Exemplo do Professor em JAVA SCRIPT.
