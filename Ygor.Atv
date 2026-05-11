@@ -1,0 +1,62 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMTcf0Fjtnh+zuCNN7BbCFg",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/profclovesrocha/log_prog/blob/main/Ygor.Atv\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "A = 1000\n",
+        "B = 1000\n",
+        "A = A + 500\n",
+        "B = B - 200\n",
+        "s = A - 200\n",
+        "print(f\"O Valor de A é: {A}\")\n",
+        "print(f\"O Valor de B é: {B}\")\n",
+        "print(f\"O Valor final de A e B é: {s}\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "TfLdcj5BAdtX",
+        "outputId": "834e7205-c7bd-4298-e4b7-4ef89b8e53dc"
+      },
+      "execution_count": 20,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "O Valor de A é: 1500\n",
+            "O Valor de B é: 800\n",
+            "O Valor final de A e B é: 1300\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
