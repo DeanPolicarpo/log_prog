@@ -1,0 +1,108 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMlHbP5cIHe4mQtx3X1LtRZ",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/profclovesrocha/log_prog/blob/main/Conta%20banc%C3%A1ria.juliocesarferreira\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "9mhl6BCo-TKg"
+      },
+      "outputs": [],
+      "source": [
+        "# UNINASSAU PAULISTA\n",
+        "# DOCENTE: CLOVES ROCHA\n",
+        "# ALUNO: JÚLIO CÉSAR FERREIRA DO NASCIMENTO\n",
+        "# DISCIPLINA: LÓGICA DE PROGRAMAÇÃO"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "nota1_str = input(\"nota1: \")\n",
+        "nota2_str = input(\"nota2: \")\n",
+        "\n",
+        "nota1 = float(nota1_str)\n",
+        "nota2 = float(nota2_str)\n",
+        "\n",
+        "resultado = (nota1 + nota2)\n",
+        "print(\"seu resultado foi:\", resultado)"
+      ],
+      "metadata": {
+        "id": "i8iGOUXqAfUC",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "dfdee8eb-1a28-4866-e496-4fb4a564153d"
+      },
+      "execution_count": 22,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "nota1: 1000\n",
+            "nota2: 500\n",
+            "seu resultado foi: 1500.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "nota1_str = input(\"nota1: \")\n",
+        "nota2_str = input(\"nota2: \")\n",
+        "\n",
+        "nota1 = float(nota1_str)\n",
+        "nota2 = float(nota2_str)\n",
+        "\n",
+        "resultado = (nota1 - nota2)\n",
+        "print(\"seu resultado foi:\", resultado)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "zKiWiu_5GBu5",
+        "outputId": "effb6c1b-1f09-45cc-81ed-00e4e60f5621"
+      },
+      "execution_count": 24,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "nota1: 1000\n",
+            "nota2: 200\n",
+            "seu resultado foi: 800.0\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
